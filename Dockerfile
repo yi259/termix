@@ -1,1 +1,1 @@
-From termix:latest
+From ghcr.io/lukegus/termix:latest
